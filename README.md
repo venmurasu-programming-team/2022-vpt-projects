@@ -52,7 +52,7 @@ The project has two tasks.
 * Metaphone for tamil https://github.com/cmrajan/taphone
 
 ## 5. NER (Named-Entity Recognition) for Venmurasu
-Create an algorithm for NER in tamil text. Identify Places, Persons etc., from Venmurasu text.
+Create an algorithm for NER in tamil text. Identify proper nouns (Places, Persons etc.,) from Venmurasu text.
 
 ### Links
 * Venmurasu https://venmurasu.in
